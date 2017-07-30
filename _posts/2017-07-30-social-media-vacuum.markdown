@@ -2,7 +2,7 @@
 title: "Escaping the Social Media Vacuum"
 layout: post
 date: 2017-07-30 13:22
-image: /assets/images/markdown.jpg
+image: 
 headerImage: false
 tag:
 - social media
